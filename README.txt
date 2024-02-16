@@ -1,4 +1,4 @@
-CREEDENCIALES:
+CREDENCIALES:
 
 Correo: invitado@gmail.com
 
